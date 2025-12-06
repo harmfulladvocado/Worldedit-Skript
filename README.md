@@ -57,7 +57,6 @@ Or, use:
 ### Fill a Region
 ```
 //set stone
-//set stone,grass   # Multiple block types (if supported)
 ```
 
 ### Replace Within the Region
