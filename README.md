@@ -62,7 +62,7 @@ Or, use:
 ### Replace Within the Region
 ```
 //replace dirt grass
-/ //repl cobblestone stone
+//repl cobblestone stone
 ```
 
 ### Create Region Walls
