@@ -109,9 +109,7 @@ All region point variables reset on (server) script reload to ensure old regions
 ### Requirements
 
 - [Skript](https://docs.skunity.com/)
-- Sufficient permissions (see above)
-- Minecraft server (version compatible with Skript and any features used here)
-
+- Perm plugin
 ---
 
 ## Credits
